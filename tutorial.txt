@@ -1,0 +1,18 @@
+
+1. repo clonen
+dann alles installieren mit
+- pnpm install
+
+2. Expo Login
+in Orner apps/cityseeker-app
+- pnpm Expo Login (Name: Treppenhaus, Passwort: vybe………………….) ("vybe" + 22 punkte)
+
+3. Expo go app runterladen auf Handy und auch mit Account einloggen
+
+4. app starten und die app wird dann oben angezeigt, man kann drauf klicken und testen
+
+
+
+
+
+

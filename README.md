@@ -1,3 +1,62 @@
+
+
+## Anleitung für euch
+
+0. NodeJS installieren dann pnpm global installieren
+   (in cmd: `npm i -g pnpm`
+
+1. Das Repo runterladen mit git clone oder download
+   im repo in cmd: `pnpm i` -> das isntalliert alles richtige was ihr braucht. am besten nichts anderes machen!
+
+2. expo login
+   - in den ordner apps/cityseeker-app gehen und in cmd `pnpm expo login` dann benutzername: `treppenhaus`, passowrt: `vybe......................` (22 Punkte)
+
+   - auf dem handy die "expo go" app herunterladen aus dem app store oder play store geht beides
+   - in der app auf dem handy auch einloggen sind die selben zugangsdaten expo login
+
+3. programmieren, app verändern im ordner app/cityseeker-app/app die .tsx Dateien bearbeiten
+4. die shared libs sind im packages ordner
+
+# 5. um die app zu starten in den main ordner vom repo gehen
+  dann in cmd `pnpm dev`
+
+  dann sollte alles sauber starten
+
+  dann auf dem handy die app starten und oben sollte die cityseeker-app angezeigt werden. dann kann man da rein.
+
+
+
+
+
+
+
+---
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
 <div align="center">
   <h1>Expo monorepo</h1>
   <p>Fast pnpm monorepo for cross-platform apps built with Expo</p>
